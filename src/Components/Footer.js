@@ -10,10 +10,11 @@ class Footer extends Component {
     }
 
     return (
-      <footer>
+      <footer id="contact">
 
      <div className="row">
         <div className="twelve columns">
+          
            <ul className="social-links">
               {networks}
            </ul>
