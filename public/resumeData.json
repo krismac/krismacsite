@@ -68,8 +68,14 @@
     "work":[
       {
         "company":"Lloyds Banking Group",
+        "title":"Engineering Lead",
+        "years":"Present",
+        "description":"Leading engineers in a workplace digital lab - focused on building a high performing engineering team in the development of strategic projects using best in clast cloud tools and modern web technology."
+      },
+      {
+        "company":"Lloyds Banking Group",
         "title":"Full Stack Software Engineer",
-        "years":"Oct 2018 – Present",
+        "years":"Oct 2018 – 2022",
         "description":"Developing web solutions for the Insurance Division's agile Digital Lab, primarily using JavaScript, ReactJS & NodeJS. Currently part of a major programme of work improving journeys for our Workplace Pension customers."
       },
       {
